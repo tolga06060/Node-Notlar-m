@@ -24,3 +24,7 @@ mv /root/go/bin/0gchaind $HOME/.0gchain/cosmovisor/genesis/bin/
 | HDD         | 50 GB       | 
 
 [Og Website](https://0g.ai/)
+
+```
+0gchaind tx staking delegate $(0gchaind keys show wallet --bech val -a)  miktar000000ua0gi --from wallet -y
+```
