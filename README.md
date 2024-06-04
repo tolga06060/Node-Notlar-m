@@ -20,3 +20,5 @@ mv /root/go/bin/0gchaind $HOME/.0gchain/cosmovisor/genesis/bin/
 | CPU         | 2          |
 | RAM         |  3          | 
 | HDD         | 50 GB       | 
+
+![Og Website](https://0g.ai/)
