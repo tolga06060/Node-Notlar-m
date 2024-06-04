@@ -13,3 +13,7 @@ kodlar bitti
 mkdir -p $HOME/.0gchain/cosmovisor/genesis/bin
 mv /root/go/bin/0gchaind $HOME/.0gchain/cosmovisor/genesis/bin/
 ```
+
+| :---------  | :----------
+| Bu         | Metin      
+| Bu         | Metin      
