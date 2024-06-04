@@ -15,6 +15,3 @@ mv /root/go/bin/0gchaind $HOME/.0gchain/cosmovisor/genesis/bin/
 ```
 
 ```python
-print("Merhaba, dünya!")
-
-deneme sonu
