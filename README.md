@@ -5,6 +5,7 @@
 sudo apt update && sudo apt upgrade -y
 sudo apt install curl git wget htop tmux build-essential jq make lz4 gcc unzip -y")
 ```
+```python
 kodlar bitti
 ```
 mkdir -p $HOME/.0gchain/cosmovisor/genesis/bin
