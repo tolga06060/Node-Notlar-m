@@ -1,4 +1,6 @@
+</center>
 # DENEME
+</center>
 ![DENEME](https://github.com/tolga06060/Node-Notlarim/blob/main/Minimalist%20_NodeWan_.jpg)
 # Node-Notlarim.
 # Node lar hakkında bilinmesi gereken önemli şeyleri burada bir araya getirmeye çalışacağım.
