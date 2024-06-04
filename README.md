@@ -15,7 +15,7 @@ mv /root/go/bin/0gchaind $HOME/.0gchain/cosmovisor/genesis/bin/
 ```
 # Sistem Gereksinimleri.
 
-| CPU         | 2    |
+| CPU         | 2           |
 | ----------- | ----------- | 
 | RAM         | 3           | 
 | HDD         | 50 GB       | 
