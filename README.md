@@ -1,2 +1,2 @@
-# Node-Notlar-m
+# Node-Notlarm
 Node lar hakkında bilinmesi gereken önemli şeyleri burada bir araya getirmeye çalışacağım.
