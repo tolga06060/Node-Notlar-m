@@ -14,6 +14,8 @@ mkdir -p $HOME/.0gchain/cosmovisor/genesis/bin
 mv /root/go/bin/0gchaind $HOME/.0gchain/cosmovisor/genesis/bin/
 ```
 # Sistem Gereksinimleri.
-| ---------  |  | ----------  |
-| Bu         |  | Metin       | 
-| Bu         |  | Metin       | 
+
+| Başlık 1    | Başlık 2    | Başlık 3    |
+| ----------- | ----------- | ----------- |
+| Satır 1, S  | Satır 1, B  | Satır 1, C  |
+| Satır 2, S  | Satır 2, B  | Satır 2, C  |
