@@ -13,7 +13,7 @@ kodlar bitti
 mkdir -p $HOME/.0gchain/cosmovisor/genesis/bin
 mv /root/go/bin/0gchaind $HOME/.0gchain/cosmovisor/genesis/bin/
 ```
-![Bilgisayar Resmi](https://example.com/computer.png) # Sistem Gereksinimleri.
+[Bilgisayar Resmi](https://example.com/computer.png) # Sistem Gereksinimleri.
 
 | Bileşenler	| Minimum Gereksinimler |
 | :----------:  | :----------:  |
